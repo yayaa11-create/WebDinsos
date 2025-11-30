@@ -125,5 +125,4 @@ Website ini adalah sistem informasi Dinas Sosial yang berfungsi untuk menampilka
 
 **🧸✨ Selesai!**
 
-<h2 id="pembuat">🌷 Dibuat Oleh</h2>
-<p>Web ini dibuat oleh <a href="https://www.instagram.com/urfav.yaya11?igsh=MWE2d2d0ZXFudTRmcw==">yayaww</a>.</p>
+<h2 id="pembuat">Web ini dibuat oleh <a href="https://www.instagram.com/urfav.yaya11?igsh=MWE2d2d0ZXFudTRmcw==">yayaww</a> 🌷</h2>
